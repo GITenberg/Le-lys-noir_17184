@@ -1,0 +1,31 @@
+_repo: Le-lys-noir_17184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gastyne, Jules de
+    aliases:
+    - De Gastyne, Jules
+    - Benoit, Jules
+    - Benoît, Jules
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '7202'
+    url: http://www.gutenberg.org/2009/agents/7202
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17184'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Le lys noir
+url: http://www.gutenberg.org/ebooks/17184
