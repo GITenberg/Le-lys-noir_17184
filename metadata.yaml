@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '7202'
     url: http://www.gutenberg.org/2009/agents/7202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17184#Le-lys-noir
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-11-29'
 gutenberg_type: Text
